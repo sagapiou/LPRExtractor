@@ -1,0 +1,10 @@
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\bin\Debug\LPRDataExtractor.exe.config
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\bin\Debug\LPRDataExtractor.exe
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\bin\Debug\LPRDataExtractor.pdb
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\bin\Debug\LPRDataExtractor.xml
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Debug\ResolveAssemblyReference.cache
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Debug\LPRDataExtractor.Resources.resources
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Debug\LPRDataExtractor.vbproj.GenerateResource.Cache
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Debug\LPRDataExtractor.exe
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Debug\LPRDataExtractor.xml
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Debug\LPRDataExtractor.pdb

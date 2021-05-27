@@ -1,0 +1,20 @@
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\bin\Release\LPRDataExtractor.exe.config
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\bin\Release\LPRDataExtractor.exe
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\bin\Release\LPRDataExtractor.pdb
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\bin\Release\LPRDataExtractor.xml
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Release\ResolveAssemblyReference.cache
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Release\LPRDataExtractor.Resources.resources
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Release\LPRDataExtractor.vbproj.GenerateResource.Cache
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Release\LPRDataExtractor.exe
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Release\LPRDataExtractor.xml
+D:\VirtualControls\Visual Studio\LPR\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Release\LPRDataExtractor.pdb
+D:\VirtualControls\Visual Studio\LPR\LPR DEPA\ServerV2\LPRData\LPRDataExtractor\LPRDataExtractor\bin\Release\LPRDataExtractor.exe.config
+D:\VirtualControls\Visual Studio\LPR\LPR DEPA\ServerV2\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Release\LPRDataExtractor.exe
+D:\VirtualControls\Visual Studio\LPR\LPR DEPA\ServerV2\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Release\LPRDataExtractor.xml
+D:\VirtualControls\Visual Studio\LPR\LPR DEPA\ServerV2\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Release\LPRDataExtractor.pdb
+D:\VirtualControls\Visual Studio\LPR\LPR DEPA\ServerV2\LPRData\LPRDataExtractor\LPRDataExtractor\bin\Release\LPRDataExtractor.exe
+D:\VirtualControls\Visual Studio\LPR\LPR DEPA\ServerV2\LPRData\LPRDataExtractor\LPRDataExtractor\bin\Release\LPRDataExtractor.pdb
+D:\VirtualControls\Visual Studio\LPR\LPR DEPA\ServerV2\LPRData\LPRDataExtractor\LPRDataExtractor\bin\Release\LPRDataExtractor.xml
+D:\VirtualControls\Visual Studio\LPR\LPR DEPA\ServerV2\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Release\ResolveAssemblyReference.cache
+D:\VirtualControls\Visual Studio\LPR\LPR DEPA\ServerV2\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Release\LPRDataExtractor.Resources.resources
+D:\VirtualControls\Visual Studio\LPR\LPR DEPA\ServerV2\LPRData\LPRDataExtractor\LPRDataExtractor\obj\Release\LPRDataExtractor.vbproj.GenerateResource.Cache
